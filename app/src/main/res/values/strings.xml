@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SkoutApp</string>
+    <string name="insira_seu_usu_rio">Insira seu usuário</string>
+    <string name="insira_sua_senha">Insira sua senha</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="sair">SAIR</string>
+</resources>
